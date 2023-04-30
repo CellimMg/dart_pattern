@@ -1,0 +1,2 @@
+O abstract factory é muito interessante quando você precisa criar varias fabricas para criar objetos que trabalham juntos, mas que são construídos de formas diferentes.
+Neste exemplo, temos o dados Servidor Publico, mas dentro dele temos Estaduais e Federais, entrando mais um pouco, temos como exemplo, Professores e Diretores. Parece muita diferença, mas no contexto da aplicação, nao nos interessa se sao professores ou diretores, apenas se sao servidores federais ou estaduais.
