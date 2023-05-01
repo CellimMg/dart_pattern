@@ -1,0 +1,1 @@
+O padrao prototype é bastante interessante e utilizado, ele consiste em prover um meio para criar um objeto baseado em outro, sem a necessidade de instanciar o objeto novamente. Seria um Ctrl C e Ctrl V de um objeto, porem é possivel alterar alguns atributos durante a clonagem.
