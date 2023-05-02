@@ -1,0 +1,2 @@
+O padrao state é muito utilizado e interessante quando voce precisa armazenar e manipular o estado de um objeto, por exemplo, um objeto que pode ter varios estados, como um carro, que pode estar ligado, desligado, em movimento, parado, etc. O padrao state permite que voce altere o estado de um objeto em tempo de execucao, sem a necessidade de criar um novo objeto, ou seja, é possivel alterar o estado de um objeto sem a necessidade de criar um novo objeto.
+Vale ressaltar, que é requisito manter o estado separado do objeto, para que possa manipulá-lo separademente.
