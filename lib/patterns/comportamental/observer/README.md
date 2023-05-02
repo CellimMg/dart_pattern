@@ -1,0 +1,3 @@
+O observer é um padrao muito simples e muito utilizado, ele é usado para notificar objetos sobre mudanças de estado de outro objeto.
+Por exemplo, quando temos um objeto que é alterado e precisamos que outros objetos sejam notificados sobre essa alteração, podemos usar o observer.
+Ele é uma especie de espiao que tomara conta de um objeto e notificara outros objetos sobre mudanças de estado desse objeto.
