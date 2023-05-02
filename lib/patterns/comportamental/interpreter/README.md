@@ -1,0 +1,2 @@
+O interpreter pattern em resumo é um padrão que permite a criação de uma linguagem própria para resolver um problema.
+sua aplicação é muito comum em compiladores e interpretadores de linguagens de programação. Apesar disso, no dia a dia sua aplicacao é bem rara.
